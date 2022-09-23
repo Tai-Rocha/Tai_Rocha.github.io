@@ -41,7 +41,7 @@ class: middle, center, inverse
 ---
 class: middle, center
 
-# Research line and interests
+# Research area and interests
 
 .columns[
 
@@ -72,7 +72,7 @@ I am interested in good practices of open science, good workflows, reproducibili
 ---
 class: top
 
-### Selected work. Recent published or under review process.
+### Selected Publications. Recent published or under review process.
 
 - [Global land-use and land-cover (LULC) data under historical, current, and future climatic conditions, 2021](https://journals.ku.edu/jbi/article/view/15483/14122).
 
@@ -84,7 +84,7 @@ knitr::include_graphics("images/results_main.png")
 Main contributions: Conceptualization, developing R codes. Writing, review & editing the manuscript. 
 
 ---
-### Selected work. Recent published or under review process.
+### Selected Publications. Recent published or under review process.
 
 - [GridDER: Grid Detection and Evaluation in R, 2022](https://ecoevorxiv.org/6qy5u/)
 
