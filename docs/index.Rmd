@@ -48,7 +48,7 @@ class: middle, center
 .left-col[
 ### Biodiversity and environmental data  <br> 
 <img style="border-radius: 10%; object-fit: cover;" src="https://pbs.twimg.com/media/EgqKANjVkAEVDtb.jpg" width="120px" height="120px"/> <br>
-Data cleaning <br> Spatial analysis through different statistical approaches (multivariate analysis and predictive models)
+Data cleaning <br> Spatial analysis using different statistical approaches (multivariate analysis and predictive models)
 
 ]
 
@@ -65,7 +65,7 @@ Efficient tools for big data analysis. R tools, Earth Engine and QGIS. Linux  OS
 ### #opensci
 
 <img style="border-radius: 10%; object-fit: cover;" src="https://pbs.twimg.com/profile_images/1400579225162297345/Lqq-PC95_400x400.jpg" width="150px" height="150px"/> <br>
-I am interested in good practices about open science, good workflows, reproducibility and FAIR principles.
+I am interested in good practices of open science, good workflows, reproducibility and FAIR principles.
 
 ]
 ]
