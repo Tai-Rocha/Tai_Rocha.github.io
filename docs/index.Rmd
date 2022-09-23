@@ -1,0 +1,89 @@
+---
+title: "Research Program on Biodiversity (PPBio)" 
+author: "[Tainá Rocha](https://tai-rocha.github.io/Tai-Rocha_CV.github.io/)"
+role: Environmental and Biodiversity Data Scientist <br> Biologist | MSc. in Environmental biology | PhD. in Zoology 
+org: "  "
+date: " "
+output:
+  xaringan::moon_reader:
+    anchor_sections: FALSE
+    css: ["default", "css/theme.css", "css/fonts.css"]
+    seal: false 
+    lib_dir: libs
+    nature:
+      slideNumberFormat: |
+        <div class="progress-bar-container">
+          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
+          </div>
+        </div>
+      highlightStyle: solarized-light
+      highlightLanguage: ["r", "css", "yaml"]
+      highlightLines: true
+      countIncrementalSlides: true
+      ratio: "16:9"
+---
+name: hello
+class: middle, center, inverse
+
+
+### `r rmarkdown::metadata$author`
+
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/11633554?v=4" width="150px"/>
+
+### `r rmarkdown::metadata$role`
+
+### `r rmarkdown::metadata$org`
+
+[`r fontawesome::fa("github")` @Tai-Rocha](https://github.com/Tai-Rocha)    
+[`r fontawesome::fa("twitter")` @Tai_Rocha_](https://twitter.com/Tai_Rocha_)   
+[`r fontawesome::fa("link")` tainaweb-en.netlify.app](https://tainaweb-en.netlify.app/)
+
+---
+class: middle, center
+
+# Research line and interests
+
+.columns[
+
+.left-col[
+### Biodiversity and environmental data  <br> 
+<img style="border-radius: 10%; object-fit: cover;" src="https://pbs.twimg.com/media/EgqKANjVkAEVDtb.jpg" width="120px" height="120px"/> <br>
+Workflow for biodiversity occurrences data cleaning. <br> Spatial analysis through different statistical approaches (multivariate analysis and predictive models)
+
+]
+
+.middle-col[
+### Bio(Eco) informática 
+
+<img style="border-radius: 10%;" src="https://lirp.cdn-website.com/dbd26f15/dms3rep/multi/opt/extreme+programming+2-640w.jpg" width="150px"/><br>
+Efficient tools for big data analysis, mainly R tools, Earth Engine and QGIS. Linux  OS. Virtual Machines (Azure, Google Cloud) and other kinds of remote clusters.
+
+]
+
+.right-col[
+
+### #opensci
+
+<img style="border-radius: 10%; object-fit: cover;" src="https://pbs.twimg.com/profile_images/1400579225162297345/Lqq-PC95_400x400.jpg" width="150px" height="150px"/> <br>
+I am interested in good practices about open science, good workflows, reproducibility and FAIR principles.
+
+]
+]
+
+---
+name: hello
+class:  middle, center, inverse
+
+
+### `r rmarkdown::metadata$author`
+
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/11633554?v=4" width="150px"/>
+
+### You can find my full CV and the codes of my projects in the following links 
+
+### `r rmarkdown::metadata$org`
+
+[`r fontawesome::fa("link")` CV](https://tai-rocha.github.io/Tai-Rocha_CV.github.io/) <br>
+[`r fontawesome::fa("github")` @Tai-Rocha](https://github.com/Tai-Rocha)    
+  
+
