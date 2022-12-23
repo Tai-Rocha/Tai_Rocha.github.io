@@ -105,15 +105,15 @@ knitr::include_graphics("images/front.png")
 Main contribution : Conceptualization, Data search & organization. Writing, review & editing the manuscript.
 ---
 
-### Current project
+### Current position
 
-Brazilian Biodiversity Research Program (PPBio)- Postdoc at the Eastern Amazon team
+Postdoc at the Eastern Amazon team- Brazilian Biodiversity Research Program (PPBio)
 
 ```{r ppbiologo, echo=FALSE, fig.align='center', out.width="45%"}
 knitr::include_graphics("images/logo_ppbio.jpg")
 ```
 
-Main activity:  PPBio data search and organization. Data analysis. Working in collaboration with other PPBio teams.
+Main activity:  PPBio data search, organization, and analysis. Data support to other PPBio teams.
 
 ---
 name: hello
