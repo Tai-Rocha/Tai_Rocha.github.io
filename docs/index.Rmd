@@ -107,7 +107,7 @@ Main contribution : Conceptualization, Data search & organization. Writing, revi
 
 ### Current position
 
-Postdoc at the Eastern Amazon team- Brazilian Biodiversity Research Program (PPBio)
+Postdoc at the Eastern Amazon team- [Brazilian Biodiversity Research Program (PPBio)](https://biologiadaconservacao.com.br/ppbio)
 
 ```{r ppbiologo, echo=FALSE, fig.align='center', out.width="45%"}
 knitr::include_graphics("images/logo_ppbio.jpg")
