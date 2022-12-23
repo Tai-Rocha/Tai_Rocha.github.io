@@ -72,7 +72,7 @@ I am interested in good practices of open science, good workflows, reproducibili
 ---
 class: top
 
-### Selected Publications. Latest publications or under review process.
+### LATEST PUBLICATIONS OR UNDER REVIEW PROCESS
 
 [Global land-use and land-cover (LULC) data under historical, current, and future climatic conditions, 2021](https://journals.ku.edu/jbi/article/view/15483/14122).
 
@@ -84,7 +84,7 @@ knitr::include_graphics("images/results_main.png")
 Main contributions: Conceptualization, writing, review & editing the manuscript. 
 
 ---
-### Selected Publications. Recent published or under review process.
+###  LATEST PUBLICATIONS OR UNDER REVIEW PROCESS
 
 [GridDER: Grid Detection and Evaluation in R, 2022](https://ecoevorxiv.org/6qy5u/). Prize winner of [GBIF Ebbe Nielsen Challenge 2022](https://www.gbif.org/news/6J94JrRZtDCPhUZMMiTALq/gridder-and-bdc-share-top-honors-in-2022-gbif-ebbe-nielsen-challenge#gridder)
 
@@ -95,7 +95,7 @@ knitr::include_graphics("images/logo.png")
 Main contributions: Build an [R package](https://github.com/BiogeographyLab/gridder.github.io) and write the package documentation.
 
 ---
-### Selected work. Recent published or under review process.
+### LATEST PUBLICATIONS OR UNDER REVIEW PROCESS
 
 Evolutionary rescue and geographic range shifts under climate change for global amphibians, 2022
 ```{r front, echo=FALSE, fig.align='center', out.width="50%"}
